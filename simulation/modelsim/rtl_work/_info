@@ -1,0 +1,213 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/University/Others/GUC MATERIAL/Semester 5/MET/DSD/Assignment/simulation/modelsim
+Eassignment1
+Z1 w1572879132
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z5 8D:/University/Others/GUC MATERIAL/Semester 5/MET/DSD/Assignment/Assignment1.vhd
+Z6 FD:/University/Others/GUC MATERIAL/Semester 5/MET/DSD/Assignment/Assignment1.vhd
+l0
+L5
+V`PWlF^GFBJ`zLkf0AkdCP1
+!s100 naNHdiG18SDa0ILaG=f]M3
+Z7 OV;C;10.5b;63
+31
+Z8 !s110 1572882173
+!i10b 1
+Z9 !s108 1572882173.000000
+Z10 !s90 -reportprogress|300|-93|-work|work|D:/University/Others/GUC MATERIAL/Semester 5/MET/DSD/Assignment/Assignment1.vhd|
+Z11 !s107 D:/University/Others/GUC MATERIAL/Semester 5/MET/DSD/Assignment/Assignment1.vhd|
+!i113 1
+Z12 o-93 -work work
+Z13 tExplicit 1 CvgOpt 0
+Ablabla
+R2
+R3
+R4
+DEx4 work 11 assignment1 0 22 `PWlF^GFBJ`zLkf0AkdCP1
+l38
+L13
+V_FRYJBA=bKF<8V>Y?;e@K0
+!s100 8YBPJDQG=;MVfVZZLIhk`3
+R7
+31
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Eassignment1_vhd_tst
+Z14 w1572880253
+R3
+R4
+R0
+Z15 8D:/University/Others/GUC MATERIAL/Semester 5/MET/DSD/Assignment/simulation/modelsim/Assignment1.vht
+Z16 FD:/University/Others/GUC MATERIAL/Semester 5/MET/DSD/Assignment/simulation/modelsim/Assignment1.vht
+l0
+L30
+V=3FGzn1@X8bT4O=<ZcfTW0
+!s100 AE:Q@ka>:KdSNe]0__mBE0
+R7
+31
+R8
+!i10b 1
+R9
+Z17 !s90 -reportprogress|300|-93|-work|work|D:/University/Others/GUC MATERIAL/Semester 5/MET/DSD/Assignment/simulation/modelsim/Assignment1.vht|
+Z18 !s107 D:/University/Others/GUC MATERIAL/Semester 5/MET/DSD/Assignment/simulation/modelsim/Assignment1.vht|
+!i113 1
+R12
+R13
+Aassignment1_arch
+R3
+R4
+DEx4 work 19 assignment1_vhd_tst 0 22 =3FGzn1@X8bT4O=<ZcfTW0
+l49
+L32
+VcCmT8JeOaP?i9<Z9GzIc`1
+!s100 nf75b5D1>0_S6f5JCFC;J1
+R7
+31
+R8
+!i10b 1
+R9
+R17
+R18
+!i113 1
+R12
+R13
+Ebcd
+Z19 w1572879067
+R2
+R3
+R4
+R0
+Z20 8D:/University/Others/GUC MATERIAL/Semester 5/MET/DSD/Assignment/bcd.vhd
+Z21 FD:/University/Others/GUC MATERIAL/Semester 5/MET/DSD/Assignment/bcd.vhd
+l0
+L5
+V88ZdJFS@;:KMjWOZ6N[T60
+!s100 PZzD30DVJ2XjW:5X^:7H`2
+R7
+31
+R8
+!i10b 1
+R9
+Z22 !s90 -reportprogress|300|-93|-work|work|D:/University/Others/GUC MATERIAL/Semester 5/MET/DSD/Assignment/bcd.vhd|
+Z23 !s107 D:/University/Others/GUC MATERIAL/Semester 5/MET/DSD/Assignment/bcd.vhd|
+!i113 1
+R12
+R13
+Adef
+R2
+R3
+R4
+DEx4 work 3 bcd 0 22 88ZdJFS@;:KMjWOZ6N[T60
+l16
+L11
+VcCTGQ<5GoM8ck7lnjj9B[3
+!s100 M_EJbQ:R_n3eI30RHPcSg3
+R7
+31
+R8
+!i10b 1
+R9
+R22
+R23
+!i113 1
+R12
+R13
+Ecounter
+Z24 w1572879039
+R2
+R3
+R4
+R0
+Z25 8D:/University/Others/GUC MATERIAL/Semester 5/MET/DSD/Assignment/counter.vhd
+Z26 FD:/University/Others/GUC MATERIAL/Semester 5/MET/DSD/Assignment/counter.vhd
+l0
+L5
+VLg6]3oCD>ko49nC5E>LRe2
+!s100 dCohzU?JC8joWGdPWNYSZ1
+R7
+31
+R8
+!i10b 1
+R9
+Z27 !s90 -reportprogress|300|-93|-work|work|D:/University/Others/GUC MATERIAL/Semester 5/MET/DSD/Assignment/counter.vhd|
+Z28 !s107 D:/University/Others/GUC MATERIAL/Semester 5/MET/DSD/Assignment/counter.vhd|
+!i113 1
+R12
+R13
+Adef
+R2
+R3
+R4
+DEx4 work 7 counter 0 22 Lg6]3oCD>ko49nC5E>LRe2
+l14
+L12
+VcBacQd?X7R;oAd>B^M7ej0
+!s100 0jYQQCdXl?XaPmj?6=S_K0
+R7
+31
+R8
+!i10b 1
+R9
+R27
+R28
+!i113 1
+R12
+R13
+Efreq_div
+Z29 w1572879025
+R2
+R3
+R4
+R0
+Z30 8D:/University/Others/GUC MATERIAL/Semester 5/MET/DSD/Assignment/freq_div.vhdl
+Z31 FD:/University/Others/GUC MATERIAL/Semester 5/MET/DSD/Assignment/freq_div.vhdl
+l0
+L5
+VflHbeEXdd]4TRc_Ue9GMb1
+!s100 2:6SkGG2mSKWBnKJHSfCQ2
+R7
+31
+R8
+!i10b 1
+R9
+Z32 !s90 -reportprogress|300|-93|-work|work|D:/University/Others/GUC MATERIAL/Semester 5/MET/DSD/Assignment/freq_div.vhdl|
+Z33 !s107 D:/University/Others/GUC MATERIAL/Semester 5/MET/DSD/Assignment/freq_div.vhdl|
+!i113 1
+R12
+R13
+Adef
+R2
+R3
+R4
+DEx4 work 8 freq_div 0 22 flHbeEXdd]4TRc_Ue9GMb1
+l13
+L10
+VlSiJnI=geEbk0gUzd9;_61
+!s100 djVL[YLji9<zk4WTz5:EH3
+R7
+31
+R8
+!i10b 1
+R9
+R32
+R33
+!i113 1
+R12
+R13
